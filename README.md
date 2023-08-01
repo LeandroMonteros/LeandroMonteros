@@ -22,11 +22,11 @@ Aquí puedes encontrar algunos de mis proyectos destacados:
 
 ## Contribuciones
 
-Me encanta contribuir a proyectos de código abierto y aprender de otros desarrolladores. Puedes ver mis contribuciones en el perfil de GitHub y también en mi sitio web personal [tu-sitio-web-personal](enlace-a-tu-sitio-web).
+Me encanta contribuir a proyectos de código abierto y aprender de otros desarrolladores. Puedes ver mis contribuciones en el perfil de GitHub y también en mi sitio web personal [soon]().
 
 ## Contacto
 
-Si quieres ponerte en contacto conmigo, puedes enviarme un mensaje por correo electrónico a leanmonteros02@gmail.com o seguirme en Twitter @Lean_Monteros(https://twitter.com/Lean_Monteros).
+Si quieres ponerte en contacto conmigo, puedes enviarme un mensaje por correo electrónico a leanmonteros02@gmail.com o seguirme en Twitter [@Lean_Monteros](https://twitter.com/Lean_Monteros).
 
 ¡Gracias por visitar mi perfil! Espero que encuentres algo interesante en mis proyectos y contribuciones. ¡No dudes en explorar, bifurcar y abrir problemas en mis repositorios! Siempre estoy abierto/a a nuevas ideas y colaboraciones.
 
