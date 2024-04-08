@@ -8,10 +8,10 @@
 
 ### Tecnologías y Lenguajes
 
-- Lenguajes de Programación: Python, JavaScript, Java.
-- Tecnologías Frontend: HTML, CSS, React.
-- Tecnologías Backend: Node.js, Express.
-- Bases de Datos: MongoDB, MySQL.
+- Lenguajes de Programación: Python, JavaScript, Java, C#, C++.
+- Tecnologías Frontend: HTML, CSS, React, Angular.
+- Tecnologías Backend: Node.js, Express, NET.
+- Bases de Datos: MongoDB, MySQL, SQL server.
 - Otros: Git, GitHub, RESTful APIs.
 
 ## Proyectos Destacados
