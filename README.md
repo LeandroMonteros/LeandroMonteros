@@ -18,7 +18,7 @@
 
 Aquí puedes encontrar algunos de mis proyectos destacados:
 
-- [@Pagina LNF].(https://leandromonteros.github.io/portfolionfl.github.io/).
+ - [Pagina LNF ](https://leandromonteros.github.io/portfolionfl.github.io/)
 
 ## Contribuciones
 
